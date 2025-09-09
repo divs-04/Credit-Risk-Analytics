@@ -1,4 +1,4 @@
-# PAY_PATTERNS: Insights Into Loan Repayment
+# Credit Risk Analytics — Insights Into Pay Patterns & Loan Repayment
 
 ## Overview
 
